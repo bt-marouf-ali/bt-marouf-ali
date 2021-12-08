@@ -5,8 +5,6 @@ My name is Marouf Ali and I'm a software developer.
 ## &#x1f4c8; GitHub Stats
 
 #![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bt-marouf-ali&show_icons=true&include_all_commits=true&count_private=true&theme=gotham)
-<img src="https://github-readme-stats.vercel.app/api?username=bt-marouf-ali&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bt-marouf-ali)](https://github.com/bt-marouf-ali/github-readme-stats)
 
 
 
